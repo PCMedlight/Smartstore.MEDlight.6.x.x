@@ -1,0 +1,9 @@
+[submodule "src/Smartstore.Modules/ML.ExtensionKit"]
+	path = src/Smartstore.Modules/ML.ExtensionKit
+	url = https://github.com/PCMedlight/ML.ExtensionKit
+[submodule "src/Smartstore.Web/Themes/MEDlight-Theme-6"]
+	path = src/Smartstore.Web/Themes/MEDlight-Theme-6
+	url = https://github.com/PCMedlight/MEDlight-Theme-6
+[submodule "src/Smartstore.Modules/ML.Lucene"]
+	path = src/Smartstore.Modules/ML.Lucene
+	url = https://github.com/PCMedlight/ML.Lucene
