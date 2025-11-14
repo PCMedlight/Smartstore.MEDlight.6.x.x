@@ -1,0 +1,3 @@
+[submodule "ML.ExtensionKit"]
+	path = src/Smartstore.Modules/ML.ExtensionKit
+	url = https://github.com/PCMedlight/ML.ExtensionKit
